@@ -3,7 +3,7 @@ API INTEGRATION AND DATA VISUALIZATION
 
 *Company*: CODTECH IT SOLUTIONS
 
-*NAME*: Sravya Keerthana.Kondamudi
+*Name*: Sravya Keerthana.Kondamudi
 
 *Intern ID*: CTIS2555
 
